@@ -4,7 +4,7 @@
 int main ()
 {
 
-	printf("SALVE MONDO");
+	printf("BUON NATALE A TUTTI");
 	
 return 0;
 }
